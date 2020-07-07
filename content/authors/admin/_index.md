@@ -14,7 +14,7 @@ role: PhD Student in Aeroacoustics
 
 # Organizations/Affiliations
 organizations:
-- name: Unuiverisity of Bristol
+- name: University of Bristol
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
